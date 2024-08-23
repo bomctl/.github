@@ -1,5 +1,5 @@
-<center><img src="docs/images/bomctl.png" alt="Moe"></center>
-<center><img src="docs/images/OpenSSF_StagesBadges_sandbox.svg" alt="OpenSSF Sandbox Badge" width="100" height="100"></center>
+<center><img src="images/bomctl.png" alt="Moe"></center>
+<center><img src="images/OpenSSF_StagesBadges_sandbox.svg" alt="OpenSSF Sandbox Badge" width="100" height="100"></center>
 
 [![OpenSSF Scorecard](https://api.securityscorecards.dev/projects/github.com/bomctl/bomctl/badge)](https://securityscorecards.dev/viewer/?uri=github.com/bomctl/bomctl)
 [![Go Report Card](https://goreportcard.com/badge/github.com/bomctl/bomctl)](https://goreportcard.com/report/github.com/bomctl/bomctl)
